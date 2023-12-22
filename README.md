@@ -1,5 +1,5 @@
 # dhhs-no-wrong-door
-Demo made for DHHS's to showcase Databricks's capability to handle the No Wrong Door policy 
+Demo made for DHHS's to showcase Databricks's capability to handle the No Wrong Door policy.
 
 ## Project Structure
 - `src/`: Contains the Python source files
